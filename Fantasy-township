@@ -1,1 +1,158 @@
-
+{
+    "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1447744787&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14475036399490102&st=9d350ecc41a37bc1626750cdca7a1907&xqid=1244787103",
+    "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
+    "version": "0.2",
+    "generation": "2",
+    "author": "喵呜幻想乡管理团队{xiameng}",
+    "instanceName": "Fantasy township",
+    "description": "喵呜幻想乡beta0.2
+        1.mod另行更新",
+    "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/edit/master/Fantasy-township",
+    "fileSystem": {
+        "entirePackageFiles": [
+            {
+                "name": "Library",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.240633cd944c1566a7fe4398831ef24d&e=1448264448&fhash=6a076074f4fc4c25970d325fc141f33171de4ffb&fname=libraries.zip&fsize=65393898&nid=14480912079415400&st=75766447415293a9ff2759e22d2a1b57&xqid=1244787103",
+                "localPath": "libraries/",
+                "md5": "631093194DD4DB5491678CCE835D6923"
+            },
+            {
+                "name": "Assets",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.167adca551f08d3dcfa8d657016e2a0a&e=1448264356&fhash=7db97097e9a864a996d86a9194b3205c94211c97&fname=assets.zip&fsize=113243829&nid=14475725009415669&st=edb96ca812da717fbfe60ff901af848a&xqid=1244787103",
+                "localPath": "assets/",
+                "md5": "5FBEFD07B38C5C053E5572D5641FA960"
+            },
+            {
+                "name": "Natives",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.33181c22b07070649ddb9716afdc96eb&e=1448264498&fhash=d744258c931a1cdcfb00355797a8eca684f31b5c&fname=natives.zip&fsize=6642932&nid=14475725199462278&st=31c663c37ef4d92c7a5bb89ce54607a4&xqid=1244787103",
+                "localPath": "natives/",
+                "md5": "F976879F9C2D6BF2F01ACB4BABE4BA39"
+            },
+            {
+                "name": "Scripts",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.640f03a7fbaf3283379e80cfa7096ce7&e=1448264512&fhash=2e830beb2dc66e5c7efbcd54c2634d51fa25ce9b&fname=scripts.zip&fsize=47711&nid=14475725209465977&st=59162632438c2c521825f82f74e424cb&xqid=1244787103",
+                "localPath": "scripts/",
+                "md5": "436E8135EC5172FB8C8854725B522CD2"
+            },
+            {
+                "name": "Configs",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.a253f4b71498253272a0fe25fdadf88c&e=1448264379&fhash=8c60fe465817c6a9c64133266c20d8c134a175ab&fname=config.zip&fsize=676811&nid=14475725219475853&st=c0e1c5d68fd75f550f009e66fe52bd52&xqid=1244787103",
+                "localPath": "config/",
+                "md5": "3C31C61DB0C9B25D1B0DB309B0694DBF"
+            },
+            {
+                "name": "CustomSkinLoader",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.f0c158730fb02580b2a81adbb5704856&e=1448264394&fhash=602800783601aa906fdbbe505f7dea3dc632f7db&fname=CustomSkinLoader.zip&fsize=32997&nid=14475725219479107&st=ea3c4e4b92016da687d7195c977b2371&xqid=1244787103",
+                "localPath": "CustomSkinLoader/",
+                "md5": "AD4B068E96236555E2697593604E2D25"
+            },
+            {
+                "name": "Mods",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.516dbbdbc7a4dcb0eff73e9332e46518&e=1448264466&fhash=d94c73aca97fea76c98886d2d381fd1222b4b05a&fname=mods.zip&fsize=115287081&nid=14480914399423601&st=f95f25ac3b4532b4e53328bbe001aa7c&xqid=1244787103",
+                "localPath": "mods/",
+                "md5": "5821E32999023DEF3EEB73FE37131E3E"
+            }
+        ],
+        "customFiles": [
+            {
+                "name": "MainJar",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.af60f3d84640ac37a9dfcde7487c110b&e=1448264551&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&fname=%25E5%2596%25B5%25E5%25B1%258B%25E5%25B9%25BB%25E6%2583%25B3%25E4%25B9%25A1.jar&fsize=5759402&nid=14475036389485478&st=ddbe792b1ecca0ceede1ec1b2d13a27f&xqid=1244787103",
+                "localPath": "喵屋幻想乡.jar",
+                "md5": "3CC1782D340A224A5E091231442CFB63"
+            },
+            {
+                "name": "ServerData",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.d11f96875a8d38120d3e99b1cff8fc06&e=1448264526&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&fname=servers.dat&fsize=1300&nid=14475036289417519&st=9f948dce042a19388c48c2c4bacc8c84&xqid=1244787103",
+                "localPath": "servers.dat",
+                "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
+            },
+            {
+                "name": "GregTechLang",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.1e9c7348e4d91daf937ce09a0be659a1&e=1448264408&fhash=5bd95992315b422e3759a6bbbec763ae6de2e50b&fname=GregTech.lang&fsize=1331767&nid=14475036279408552&st=51c1a6239374287d37a5f2ff53b420d0&xqid=1244787103",
+                "localPath": "GregTech.lang",
+                "md5": "93E160A1ED17638A25C4A3058F35F6AA"
+            },
+			{
+                "name": "Setting",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "localPath": "options.txt",
+                "md5": "23d8f43193a2abdbc0313fb07b4c61d1"
+            }			
+        ]
+    },
+    "startupArguments": {
+        "jvmArguments": [
+            "-XX:+UseConcMarkSweepGC",
+            "-XX:+CMSIncrementalMode",
+            "-XX:-UseAdaptiveSizePolicy",
+            "-Xmn128M",
+            "-XX:MaxPermSize=256M",
+            "-Dfml.ignoreInvalidMinecraftCertificates=true",
+            "-Dfml.ignorePatchDiscrepancies=true"
+        ],
+        "miniumMemoryMegaSize": 0,
+        "nativespath": "natives",
+        "libraryPaths": [
+            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10.jar",
+            "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
+            "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/google/guava/guava/16.0/guava-16.0.jar",
+            "libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar",
+            "libraries/com/typesafe/config/1.2.1/config-1.2.1.jar",
+            "libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar",
+            "libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar",
+            "libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar",
+            "libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar",
+            "libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar",
+            "libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/google/guava/guava/17.0/guava-17.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+            "libraries/com/mojang/realms/1.2.4/realms-1.2.4.jar",
+            "libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+            "libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+            "libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+            "libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+            "libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+            "libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+            "libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+            "libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+            "libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+            "libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+            "libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+            "libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+            "libraries/com/google/guava/guava/15.0/guava-15.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+            "libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
+            "libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+            "libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+            "libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+            "libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+            "libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar",
+            "libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+            "libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
+            "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
+        ],
+        "mainJarPath": "喵屋幻想乡.jar",
+        "mainClass": "net.minecraft.launchwrapper.Launch",
+        "version": "1.7.10",
+        "assetsDir": "assets",
+        "assetIndex": "1.7.10",
+        "userType": "mojang",
+        "tweakClasses": [
+            "cpw.mods.fml.common.launcher.FMLTweaker",
+            "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+        ]
+    }
+}
