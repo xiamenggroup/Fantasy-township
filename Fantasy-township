@@ -6,7 +6,10 @@
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Fantasy township",
     "description": "喵呜幻想乡beta0.3
-        1.mod另行更新",
+        1.mod另行更新
+        2.解决物品刷东西
+        3.解决无限弹幕
+        4.解决Nei在部分情况会崩溃",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
     "fileSystem": {
         "entirePackageFiles": [
