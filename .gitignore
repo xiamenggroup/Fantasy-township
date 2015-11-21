@@ -1,1 +1,6 @@
-There is no
+echo # Fantasy-township >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xiamenggroup/Fantasy-township.git
+git push -u origin master
