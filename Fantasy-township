@@ -72,6 +72,18 @@
                 "localPath": "GregTech.lang",
                 "md5": "93E160A1ED17638A25C4A3058F35F6AA"
             },
+            {
+                "name": "打不开mod更新器用这个bat",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.6b566535f820d5590fd76b50cb8669c4&e=1448265160&fhash=5a2d31a44abc7c9fea6cd48fe5cf0207f1864b82&fname=%25E6%2589%2593%25E4%25B8%258D%25E5%25BC%2580mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8%25E7%2594%25A8%25E8%25BF%2599%25E4%25B8%25AA.bat&fsize=28&nid=14480921059469003&st=2a6af78601ba8d062548c696f5826c62&xqid=1244787103",
+                "localPath": "打不开mod更新器用这个.bat",
+                "md5": "9595247FD1B1E2105894EB20CD86E7A9"
+            },
+            {
+                "name": "Mod更新器V1.55jar",
+                "downloadLink": "http://sdl63.yunpan.cn/share.php?method=Share.download&cqid=0989228c6e859a6cfe257c86d930a66d&dt=63.8a046f328369779fdd48ff813f2836d9&e=1448265245&fhash=9d3d208c000bcb7864b64bd690ef7aed8b993d57&fname=Mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8V1.55.jar&fsize=2263882&nid=14480921059466109&st=8ce0c6c43c353087b7068fbb567de954&xqid=1244787103",
+                "localPath": "Mod更新器V1.55.jar",
+                "md5": "82728813AB8E68CC5FC3E94B162C0D6D"
+            },
 			{
                 "name": "Setting",
                 "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
