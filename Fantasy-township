@@ -1,15 +1,13 @@
 {
     "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1448265788&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14475036399490102&st=52033c8f46125de0a0fed737986a45a0&xqid=1244787103",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.3",
+    "version": "0.4",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡beta0.3
+    "description": "喵呜幻想乡beta0.4
         1.mod另行更新
-        2.解决物品刷东西
-        3.解决无限弹幕
-        4.解决Nei在部分情况会崩溃",
+        2.解决了崩溃,但是仍然有问题？",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
     "fileSystem": {
         "entirePackageFiles": [
@@ -51,9 +49,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.dcec8c05f5022498d72804c0b158299f&e=1448267371&fhash=760144e91f522e978c35ff403a965bb4d237cbb0&fname=mods.zip&fsize=115286309&nid=14480914399423601&st=a75852c618e6bdf07bfe28c0b24f9772&xqid=1244787103",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.8d4d3745df4f03a4b503ee7ab26322a3&e=1448344690&fhash=36cbdbbf1758342f4240939ce148bc227e16e4c8&fname=mods.zip&fsize=115285257&nid=14481717969453419&st=31df329411e9e241bcbd4062cf6d635b&xqid=1244787103",
                 "localPath": "mods/",
-                "md5": "AFF298D042B77B0012155A818642ED34"
+                "md5": "0B7BEE5BB5BA8627289F89B5E01D0507"
             }
         ],
         "customFiles": [
