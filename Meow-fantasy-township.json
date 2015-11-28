@@ -10,7 +10,10 @@
         2.删除一个mod
         3.mod例行更新
         4.MT脚本更新
-        5.解决你在崩溃后可能会无法启动的问题",
+        5.解决你在崩溃后可能会无法启动的问题
+        6.修正MD5错误
+        7.修正不能下载
+        8.致命的小问题",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
     "fileSystem": {
         "entirePackageFiles": [
@@ -54,7 +57,7 @@
                 "name": "Mods",
                 "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.bc7def6a1a662baa2a8956f73500a587&e=1448872279&fhash=210a3ba73c179332c926a4b92506517f8b211176&fname=mods.zip&fsize=110391120&nid=14486949149440887&st=6248061bc97ec559f1bc41bf7162d294&xqid=1244787103",
                 "localPath": "mods/",
-                "md5": "B22212D77369C9504DFCFC871049A487"
+                "md5": "6B39D146FC1105070AD7297D109B4000"
             }
         ],
         "customFiles": [
