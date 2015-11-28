@@ -1,11 +1,11 @@
 {
     "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1448872694&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14486998839417236&st=448cf90a50e70534028c502fa74d71ec&xqid=1244787103",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.4",
+    "version": "0.5",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow fantasy township",
-    "description": "喵呜幻想乡beta0.4
+    "description": "喵呜幻想乡beta0.5
         1.解决mod矛盾
         2.删除一个mod
         3.mod例行更新
@@ -13,7 +13,15 @@
         5.解决你在崩溃后可能会无法启动的问题
         6.修正MD5错误
         7.修正不能下载
-        8.致命的小问题",
+        8.致命的小问题
+        9.实体容易造成错误
+        10.修复魔导书会时而崩溃
+        11.解决AE在多人联机刷东西
+        12.重新匹配语音文件
+        13.解决可能mod会显示英文语音
+        14.解决加载的崩溃
+        15.config的小问题
+        16.减少加载时造成的区块错误",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
