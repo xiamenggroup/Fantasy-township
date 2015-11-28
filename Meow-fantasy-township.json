@@ -1,0 +1,174 @@
+{
+    "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1448872694&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14486998839417236&st=448cf90a50e70534028c502fa74d71ec&xqid=1244787103",
+    "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
+    "version": "0.4",
+    "generation": "2",
+    "author": "喵呜幻想乡管理团队",
+    "instanceName": "Meow fantasy township",
+    "description": "喵呜幻想乡beta0.4
+        1.解决mod矛盾
+        2.删除一个mod
+        3.mod例行更新
+        4.MT脚本更新
+        5.解决你在崩溃后可能会无法启动的问题",
+    "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
+    "fileSystem": {
+        "entirePackageFiles": [
+            {
+                "name": "Library",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.20ee1231e74dd6ae08a6f4e525169e45&e=1448882398&fhash=f97f70d20efd4e12720a2dee45c0806f3321a965&fname=libraries%2B%25281%2529.zip&fsize=65393898&nid=14487095249428632&st=ce0a0d449449169c7dbdb83764c4c32f&xqid=1244787103",
+                "localPath": "libraries/",
+                "md5": "F57F236F05D9FF329D0C52D9F9CCA0E1"
+            },
+            {
+                "name": "Assets",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/assets.zip",
+                "localPath": "assets/",
+                "md5": "47BD43D77B2B91C2E9970B1B5215660A"
+            },
+            {
+                "name": "Natives",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
+                "localPath": "natives/",
+                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
+            },
+            {
+                "name": "Scripts",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.91d72290154b8755c8a9b9581c412998&e=1448872204&fhash=2a818583cc0d14952acc780edc42391a27c2bf67&fname=scripts%2B%25282%2529.zip&fsize=47243&nid=14486993229451484&st=4f9ca064d9135017a7c689e105257310&xqid=1244787103",
+                "localPath": "scripts/",
+                "md5": "EFE331581ACCD194CA627F5F99DE6EE2"
+            },
+            {
+                "name": "Configs",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.93132fc4ba2ad46837ab25e5428bcaa1&e=1448872257&fhash=5b2cbe6b911a8a27f73832b3001c075e7e7fe3be&fname=config.zip&fsize=670010&nid=14486971469431420&st=a72cfd37ff7be30e132c0dad38bd373b&xqid=1244787103",
+                "localPath": "config/",
+                "md5": "1B034CD1782B5D2CB42DAFFD0C7DC5F2"
+            },
+            {
+                "name": "CustomSkinLoader",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/CustomSkinLoader.zip",
+                "localPath": "CustomSkinLoader/",
+                "md5": "DBCEE6B837590BEB26CF707EDC24FD17"
+            },
+            {
+                "name": "Mods",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.bc7def6a1a662baa2a8956f73500a587&e=1448872279&fhash=210a3ba73c179332c926a4b92506517f8b211176&fname=mods.zip&fsize=110391120&nid=14486949149440887&st=6248061bc97ec559f1bc41bf7162d294&xqid=1244787103",
+                "localPath": "mods/",
+                "md5": "B22212D77369C9504DFCFC871049A487"
+            }
+        ],
+        "customFiles": [
+            {
+                "name": "MainJar",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.af60f3d84640ac37a9dfcde7487c110b&e=1448872304&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&fname=%25E5%2596%25B5%25E5%25B1%258B%25E5%25B9%25BB%25E6%2583%25B3%25E4%25B9%25A1.jar&fsize=5759402&nid=14486916479460942&st=9f720f6e998f6fd9d4c2faef25f5efb8&xqid=1244787103",
+                "localPath": "Meow-Fantasy-Township.jar",
+                "md5": "3CC1782D340A224A5E091231442CFB63"
+            },
+            {
+                "name": "ServerData",
+                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.d11f96875a8d38120d3e99b1cff8fc06&e=1448872320&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&fname=servers.dat&fsize=1300&nid=14486916479460481&st=fb587ec49210a29ba9ee41db2df46a41&xqid=1244787103",
+                "localPath": "servers.dat",
+                "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
+            },
+            {
+                "name": "GregTechLang",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
+                "localPath": "GregTech.lang",
+                "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
+            },
+            {
+                "name": "打不开mod更新器用这个bat",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.6b566535f820d5590fd76b50cb8669c4&e=1448872339&fhash=5a2d31a44abc7c9fea6cd48fe5cf0207f1864b82&fname=%25E6%2589%2593%25E4%25B8%258D%25E5%25BC%2580mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8%25E7%2594%25A8%25E8%25BF%2599%25E4%25B8%25AA.bat&fsize=28&nid=14486916479460640&st=59bf6f4706643e42671f16e5a3111d82&xqid=1244787103",
+                "localPath": "打不开mod更新器用这个.bat",
+                "md5": "9595247FD1B1E2105894EB20CD86E7A9"
+            },
+            {
+                "name": "Mod更新器V1.55jar",
+                "downloadLink": "http://dl71.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2FMod%E6%9B%B4%E6%96%B0%E5%99%A8V1.55.jar&fhash=9d3d208c000bcb7864b64bd690ef7aed8b993d57&dt=71_63.76e48cb3c092b89dd00e84eab17d1b39&v=1.0.1&rtick=14486995553520&open_app_id=0&devtype=web&sign=b486d20eafe40b6f6e46be1847de76f6&",
+                "localPath": "Mod更新器V1.55.jar",
+                "md5": "82728813AB8E68CC5FC3E94B162C0D6D"
+            },
+			{
+                "name": "Setting",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "localPath": "options.txt",
+                "md5": "23d8f43193a2abdbc0313fb07b4c61d1"
+            }			
+        ]
+    },
+    "startupArguments": {
+        "jvmArguments": [
+            "-XX:+UseConcMarkSweepGC",
+            "-XX:+CMSIncrementalMode",
+            "-XX:-UseAdaptiveSizePolicy",
+            "-Xmn128M",
+            "-XX:MaxPermSize=256M",
+            "-Dfml.ignoreInvalidMinecraftCertificates=true",
+            "-Dfml.ignorePatchDiscrepancies=true"
+        ],
+        "miniumMemoryMegaSize": 0,
+        "nativespath": "natives",
+        "libraryPaths": [
+          "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10.jar",
+            "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
+            "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/google/guava/guava/16.0/guava-16.0.jar",
+            "libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar",
+            "libraries/com/typesafe/config/1.2.1/config-1.2.1.jar",
+            "libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar",
+            "libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar",
+            "libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar",
+            "libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar",
+            "libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar",
+            "libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/google/guava/guava/17.0/guava-17.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+            "libraries/com/mojang/realms/1.2.4/realms-1.2.4.jar",
+            "libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+            "libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+            "libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+            "libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+            "libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+            "libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+            "libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+            "libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+            "libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+            "libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+            "libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+            "libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+            "libraries/com/google/guava/guava/15.0/guava-15.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+            "libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
+            "libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+            "libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+            "libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+            "libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+            "libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar",
+            "libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+            "libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
+            "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
+        ],
+        "mainJarPath": "Meow-Fantasy-Township.jar",
+        "mainClass": "net.minecraft.launchwrapper.Launch",
+        "version": "1.7.10",
+        "assetsDir": "assets",
+        "assetIndex": "1.7.10",
+        "userType": "mojang",
+        "tweakClasses": [
+            "cpw.mods.fml.common.launcher.FMLTweaker",
+            "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+        ]
+    }
+}
