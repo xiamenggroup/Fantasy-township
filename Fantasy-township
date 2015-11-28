@@ -6,82 +6,84 @@
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Fantasy township",
     "description": "喵呜幻想乡beta0.4
-        1.mod另行更新
-        2.解决了崩溃,但是仍然有问题？",
+        1.解决mod矛盾
+        2.删除一个mod
+        3.mod例行更新
+        4.MT脚本更新",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.240633cd944c1566a7fe4398831ef24d&e=1448264448&fhash=6a076074f4fc4c25970d325fc141f33171de4ffb&fname=libraries.zip&fsize=65393898&nid=14480912079415400&st=75766447415293a9ff2759e22d2a1b57&xqid=1244787103",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/libraries.zip",
                 "localPath": "libraries/",
-                "md5": "631093194DD4DB5491678CCE835D6923"
+                "md5": "1E16F12F998BDBEEC4E5A6B6CA37D5DF"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.167adca551f08d3dcfa8d657016e2a0a&e=1448264356&fhash=7db97097e9a864a996d86a9194b3205c94211c97&fname=assets.zip&fsize=113243829&nid=14475725009415669&st=edb96ca812da717fbfe60ff901af848a&xqid=1244787103",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/assets.zip",
                 "localPath": "assets/",
-                "md5": "5FBEFD07B38C5C053E5572D5641FA960"
+                "md5": "47BD43D77B2B91C2E9970B1B5215660A"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.33181c22b07070649ddb9716afdc96eb&e=1448264498&fhash=d744258c931a1cdcfb00355797a8eca684f31b5c&fname=natives.zip&fsize=6642932&nid=14475725199462278&st=31c663c37ef4d92c7a5bb89ce54607a4&xqid=1244787103",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
                 "localPath": "natives/",
-                "md5": "F976879F9C2D6BF2F01ACB4BABE4BA39"
+                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.640f03a7fbaf3283379e80cfa7096ce7&e=1448264512&fhash=2e830beb2dc66e5c7efbcd54c2634d51fa25ce9b&fname=scripts.zip&fsize=47711&nid=14475725209465977&st=59162632438c2c521825f82f74e424cb&xqid=1244787103",
+                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2Fscripts.zip&fhash=2e830beb2dc66e5c7efbcd54c2634d51fa25ce9b&dt=53_53.5498d45b21795bb2b83cabba4743e76a&v=1.0.1&rtick=14486971743717&open_app_id=0&devtype=web&sign=4933d1556f9d1f7aef63331a23a2c275&",
                 "localPath": "scripts/",
                 "md5": "436E8135EC5172FB8C8854725B522CD2"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.a253f4b71498253272a0fe25fdadf88c&e=1448264379&fhash=8c60fe465817c6a9c64133266c20d8c134a175ab&fname=config.zip&fsize=676811&nid=14475725219475853&st=c0e1c5d68fd75f550f009e66fe52bd52&xqid=1244787103",
+                "downloadLink": "http://dl71.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2Fconfig.zip&fhash=5b2cbe6b911a8a27f73832b3001c075e7e7fe3be&dt=71_71.f36baa90f9311f80b061a0871ad69e82&v=1.0.1&rtick=14486971519988&open_app_id=0&devtype=web&sign=bec06cdfd891b4b594d0ffa5d975ec78&",
                 "localPath": "config/",
-                "md5": "3C31C61DB0C9B25D1B0DB309B0694DBF"
+                "md5": "1B034CD1782B5D2CB42DAFFD0C7DC5F2"
             },
             {
                 "name": "CustomSkinLoader",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.f0c158730fb02580b2a81adbb5704856&e=1448264394&fhash=602800783601aa906fdbbe505f7dea3dc632f7db&fname=CustomSkinLoader.zip&fsize=32997&nid=14475725219479107&st=ea3c4e4b92016da687d7195c977b2371&xqid=1244787103",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/CustomSkinLoader.zip",
                 "localPath": "CustomSkinLoader/",
-                "md5": "AD4B068E96236555E2697593604E2D25"
+                "md5": "DBCEE6B837590BEB26CF707EDC24FD17"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.8d4d3745df4f03a4b503ee7ab26322a3&e=1448344690&fhash=36cbdbbf1758342f4240939ce148bc227e16e4c8&fname=mods.zip&fsize=115285257&nid=14481717969453419&st=31df329411e9e241bcbd4062cf6d635b&xqid=1244787103",
+                "downloadLink": "http://dl71.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E6%9D%A5%E8%87%AA-%E6%B5%8F%E8%A7%88%E5%99%A8%2Fmods.zip&fhash=a50eeddf30fa846408192497712f996f41743447&dt=71_71.00f0a46e3427955ce170dff59b9fce60&v=1.0.1&rtick=14486972875845&open_app_id=0&devtype=web&sign=8a01bcbea957060691d7012c4b421c7f&",
                 "localPath": "mods/",
-                "md5": "0B7BEE5BB5BA8627289F89B5E01D0507"
+                "md5": "B22212D77369C9504DFCFC871049A487"
             }
         ],
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.af60f3d84640ac37a9dfcde7487c110b&e=1448264551&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&fname=%25E5%2596%25B5%25E5%25B1%258B%25E5%25B9%25BB%25E6%2583%25B3%25E4%25B9%25A1.jar&fsize=5759402&nid=14475036389485478&st=ddbe792b1ecca0ceede1ec1b2d13a27f&xqid=1244787103",
+                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&dt=53_53.a014fddf22c3eed0969db27f1e120c90&v=1.0.1&rtick=14486970255759&open_app_id=0&devtype=web&sign=1c537ca1d608fb64a123ff8abf872105&",
                 "localPath": "喵屋幻想乡.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.d11f96875a8d38120d3e99b1cff8fc06&e=1448264526&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&fname=servers.dat&fsize=1300&nid=14475036289417519&st=9f948dce042a19388c48c2c4bacc8c84&xqid=1244787103",
+                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2Fservers.dat&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&dt=53_53.692c9b8ed6fc9a85540c5838b034d77b&v=1.0.1&rtick=14486970519932&open_app_id=0&devtype=web&sign=2dc085751edf935470cd95c4c181356d&",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.1e9c7348e4d91daf937ce09a0be659a1&e=1448264408&fhash=5bd95992315b422e3759a6bbbec763ae6de2e50b&fname=GregTech.lang&fsize=1331767&nid=14475036279408552&st=51c1a6239374287d37a5f2ff53b420d0&xqid=1244787103",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
                 "localPath": "GregTech.lang",
-                "md5": "93E160A1ED17638A25C4A3058F35F6AA"
+                "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
             },
             {
                 "name": "打不开mod更新器用这个bat",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.6b566535f820d5590fd76b50cb8669c4&e=1448265160&fhash=5a2d31a44abc7c9fea6cd48fe5cf0207f1864b82&fname=%25E6%2589%2593%25E4%25B8%258D%25E5%25BC%2580mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8%25E7%2594%25A8%25E8%25BF%2599%25E4%25B8%25AA.bat&fsize=28&nid=14480921059469003&st=2a6af78601ba8d062548c696f5826c62&xqid=1244787103",
+                "downloadLink": "http://dl71.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E6%89%93%E4%B8%8D%E5%BC%80mod%E6%9B%B4%E6%96%B0%E5%99%A8%E7%94%A8%E8%BF%99%E4%B8%AA.bat&fhash=5a2d31a44abc7c9fea6cd48fe5cf0207f1864b82&dt=71_71.3a7488052aa16f13528d88268e379cfd&v=1.0.1&rtick=14486970937799&open_app_id=0&devtype=web&sign=c08ea072993b31046cc2f1fab0bd9a16&",
                 "localPath": "打不开mod更新器用这个.bat",
                 "md5": "9595247FD1B1E2105894EB20CD86E7A9"
             },
             {
                 "name": "Mod更新器V1.55jar",
-                "downloadLink": "http://sdl63.yunpan.cn/share.php?method=Share.download&cqid=0989228c6e859a6cfe257c86d930a66d&dt=63.8a046f328369779fdd48ff813f2836d9&e=1448265245&fhash=9d3d208c000bcb7864b64bd690ef7aed8b993d57&fname=Mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8V1.55.jar&fsize=2263882&nid=14480921059466109&st=8ce0c6c43c353087b7068fbb567de954&xqid=1244787103",
+                "downloadLink": "http://dl71.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%91%9C%E5%B9%BB%E6%83%B3%E4%B9%A1%2FMod%E6%9B%B4%E6%96%B0%E5%99%A8V1.55.jar&fhash=9d3d208c000bcb7864b64bd690ef7aed8b993d57&dt=71_63.76e48cb3c092b89dd00e84eab17d1b39&v=1.0.1&rtick=14486970727087&open_app_id=0&devtype=web&sign=dd855e7487f4050c9be609490a8ae7fd&",
                 "localPath": "Mod更新器V1.55.jar",
                 "md5": "82728813AB8E68CC5FC3E94B162C0D6D"
             },
@@ -106,7 +108,7 @@
         "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
-            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10.jar",
+            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10.jar",
             "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
             "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
             "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
