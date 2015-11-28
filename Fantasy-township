@@ -4,20 +4,21 @@
     "version": "0.4",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
-    "instanceName": "Fantasy township",
+    "instanceName": "Meow fantasy township",
     "description": "喵呜幻想乡beta0.4
         1.解决mod矛盾
         2.删除一个mod
         3.mod例行更新
-        4.MT脚本更新",
+        4.MT脚本更新
+        5.解决你在崩溃后可能会无法启动的问题",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Fantasy-township",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.ebb5e7ae5a7e6b66a1adfd8a119fcefb&e=1448872182&fhash=52c4238187ab0e4a86c15cfbb8c96513b74acadf&fname=libraries.zip&fsize=65392423&nid=14486992209434523&st=a173608c992a53b326f3e664db38eb4d&xqid=1244787103",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.20ee1231e74dd6ae08a6f4e525169e45&e=1448882398&fhash=f97f70d20efd4e12720a2dee45c0806f3321a965&fname=libraries%2B%25281%2529.zip&fsize=65393898&nid=14487095249428632&st=ce0a0d449449169c7dbdb83764c4c32f&xqid=1244787103",
                 "localPath": "libraries/",
-                "md5": "8CE51A934C43EEF29C0D609B3B853D8C"
+                "md5": "F57F236F05D9FF329D0C52D9F9CCA0E1"
             },
             {
                 "name": "Assets",
@@ -60,7 +61,7 @@
             {
                 "name": "MainJar",
                 "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.af60f3d84640ac37a9dfcde7487c110b&e=1448872304&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&fname=%25E5%2596%25B5%25E5%25B1%258B%25E5%25B9%25BB%25E6%2583%25B3%25E4%25B9%25A1.jar&fsize=5759402&nid=14486916479460942&st=9f720f6e998f6fd9d4c2faef25f5efb8&xqid=1244787103",
-                "localPath": "喵屋幻想乡.jar",
+                "localPath": "Meow-Fantasy-Township.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
@@ -108,7 +109,7 @@
         "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
-          "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10.jar",
+          "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10.jar",
             "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
             "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
             "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
@@ -159,7 +160,7 @@
             "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
             "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
         ],
-        "mainJarPath": "喵屋幻想乡.jar",
+        "mainJarPath": "Meow-Fantasy-Township.jar",
         "mainClass": "net.minecraft.launchwrapper.Launch",
         "version": "1.7.10",
         "assetsDir": "assets",
