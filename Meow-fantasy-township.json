@@ -23,7 +23,8 @@
         15.config的小问题
         16.减少加载时造成的区块错误
         17.有53处变动不一一列出了
-        18.可能下载地址造成了504",
+        18.可能下载地址造成了504
+        19.物品标记异常",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -47,15 +48,15 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.91d72290154b8755c8a9b9581c412998&e=1448872204&fhash=2a818583cc0d14952acc780edc42391a27c2bf67&fname=scripts%2B%25282%2529.zip&fsize=47243&nid=14486993229451484&st=4f9ca064d9135017a7c689e105257310&xqid=1244787103",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.3bce7168d89e911a7237f3a64f5f8c1b&e=1448952500&fhash=b7ea6b1b97f8de41262dc2977057a4e38f5d13c2&fname=scripts.zip&fsize=47379&nid=14487796859439799&st=c252f296aa45c54c6d6fe88fcdb080c2&xqid=1244787103",
                 "localPath": "scripts/",
-                "md5": "EFE331581ACCD194CA627F5F99DE6EE2"
+                "md5": "904361AB426466D3CA3C98FAD2731B57"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.93132fc4ba2ad46837ab25e5428bcaa1&e=1448872257&fhash=5b2cbe6b911a8a27f73832b3001c075e7e7fe3be&fname=config.zip&fsize=670010&nid=14486971469431420&st=a72cfd37ff7be30e132c0dad38bd373b&xqid=1244787103",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.09923294eafab5724745289297e6c5fa&e=1448952376&fhash=3c29486cbe209153b33ecf758c5eacb08dc7a09f&fname=config.zip&fsize=672703&nid=14487795579455012&st=f222171afa5f431a6654d920ba242e74&xqid=1244787103",
                 "localPath": "config/",
-                "md5": "1B034CD1782B5D2CB42DAFFD0C7DC5F2"
+                "md5": "5713A7626F8C5EE3D1C50ABD1643A7AE"
             },
             {
                 "name": "CustomSkinLoader",
@@ -65,9 +66,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.bc7def6a1a662baa2a8956f73500a587&e=1448872279&fhash=210a3ba73c179332c926a4b92506517f8b211176&fname=mods.zip&fsize=110391120&nid=14486949149440887&st=6248061bc97ec559f1bc41bf7162d294&xqid=1244787103",
+                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.a220ada2c17e6ea82634142187e8365f&e=1448952801&fhash=93e9bd47ab6e5a35727d48dd54401b5eb71a0a94&fname=mods.zip&fsize=110384956&nid=14487799749441907&st=1a3441f61f462c61ea2d1857922177bc&xqid=1244787103",
                 "localPath": "mods/",
-                "md5": "6B39D146FC1105070AD7297D109B4000"
+                "md5": "76197F09FF7363F7B1FBF061AAD1BC88"
             }
         ],
         "customFiles": [
