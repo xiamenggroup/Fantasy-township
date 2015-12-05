@@ -28,7 +28,7 @@
                 "name": "Natives",
                 "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
                 "localPath": "natives/",
-                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
+                "md5": "6167B2DBCDC8CDD9F571173940FC896F"
             },
             {
                 "name": "Scripts",
@@ -73,18 +73,6 @@
                 "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
                 "localPath": "GregTech.lang",
                 "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
-            },
-            {
-                "name": "打不开mod更新器用这个bat",
-                "downloadLink": "http://musicuu.com/file/c33c4BEgcVxm9_244d.bat",
-                "localPath": "打不开mod更新器用这个.bat",
-                "md5": "9595247FD1B1E2105894EB20CD86E7A9"
-            },
-            {
-                "name": "Mod更新器V1.55jar",
-                "downloadLink": "http://musicuu.com/file/c33ciXbX79WvK_325e.jar",
-                "localPath": "Mod更新器V1.55.jar",
-                "md5": "82728813AB8E68CC5FC3E94B162C0D6D"
             },
 			{
                 "name": "Setting",
