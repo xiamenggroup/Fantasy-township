@@ -1,5 +1,5 @@
 {
-    "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1449471442&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14492977589470409&st=28f5463652b30b729607678cf06b97a2&xqid=1244787103",
+    "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
     "version": "0.7",
     "generation": "2",
@@ -13,13 +13,13 @@
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.20ee1231e74dd6ae08a6f4e525169e45&e=1449471220&fhash=f97f70d20efd4e12720a2dee45c0806f3321a965&fname=libraries.zip&fsize=65393898&nid=14492978589458747&st=a291b1f88bb1ced66ab65a44bdf64d17&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33c3dGyagA2w_d789.zip",
                 "localPath": "libraries/",
                 "md5": "F57F236F05D9FF329D0C52D9F9CCA0E1"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.a165ce41c38d548f6ee3a3b43e37789a&e=1449471203&fhash=5aebdc8630daeffbbd06ff4b8ca2d6b3e77b0a2a&fname=assets.rar&fsize=113077596&nid=14492981169487203&st=db29da7263b6bfc462ecece0c1876cd5&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cy3piyU8je_03b4.rar",
                 "localPath": "assets/",
                 "md5": "AA0F187AB0BF9B7B803E87F89A6E88EE"
             },
@@ -31,25 +31,25 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.3bce7168d89e911a7237f3a64f5f8c1b&e=1449471259&fhash=b7ea6b1b97f8de41262dc2977057a4e38f5d13c2&fname=scripts.zip&fsize=47379&nid=14492981189405965&st=19693e29a70c5ab3923a5bb18879b2af&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cRqcSeWUcG_0385.zip",
                 "localPath": "scripts/",
                 "md5": "904361AB426466D3CA3C98FAD2731B57"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.1cef47c719e13ca3b72a87860325aba3&e=1449471277&fhash=9af042fdb815b6c32274d7e2a9174cd463840931&fname=config.zip&fsize=672703&nid=14492981179400888&st=8ff1ba6597b9a2f17fed4e99c845ebb0&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cvmSMDiVNw_caa6.zip",
                 "localPath": "config/",
                 "md5": "61DE83E98F951796160194968D5BD3D1"
             },
             {
                 "name": "CustomSkinLoader",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.b2e0ccc97662fec3abf0cb9c8bece9e3&e=1449471302&fhash=d7922c5bbf63d4df6c46a6a7bb25cfb6a0dc5f50&fname=CustomSkinLoader.zip&fsize=1949&nid=14492981169491902&st=24eb833ab23298bc01e3d49e4b073564&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cE4fkUF8nP_6a33.zip",
                 "localPath": "CustomSkinLoader/",
                 "md5": "DB13CD914A646EDAA3228B2D5F523617"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.1f877c06016d511e39f1146a0014321d&e=1449471325&fhash=c9a8f09e494ac74951a4c83d6426400c4968d003&fname=mods.zip&fsize=110437994&nid=14492983559493104&st=4cee65ea330765cb93b99e5b11219421&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33ctmSqZhpeB_9d1f.zip",
                 "localPath": "mods/",
                 "md5": "7CA5DB9B491FF0BFE7E7C047D3B31834"
             }
@@ -57,13 +57,13 @@
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.af60f3d84640ac37a9dfcde7487c110b&e=1449471339&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&fname=%25E5%2596%25B5%25E5%25B1%258B%25E5%25B9%25BB%25E6%2583%25B3%25E4%25B9%25A1.jar&fsize=5759402&nid=14492979019497461&st=d2f39ac5a4a2065129a0009da3bc55c6&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cX9tMMs3rh_4032.jar",
                 "localPath": "Meow-Fantasy-Township.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.d11f96875a8d38120d3e99b1cff8fc06&e=1449471359&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&fname=servers.dat&fsize=1300&nid=14492979019497151&st=43088524eb8e1be8523f09b9e872c54a&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33cDmSFS4X7R_3395.dat",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
@@ -75,13 +75,13 @@
             },
             {
                 "name": "打不开mod更新器用这个bat",
-                "downloadLink": "http://sdl71.yunpan.cn/share.php?method=Share.download&cqid=ca7a31ca77f94f9a9bcddbcaa6f4657a&dt=71.6b566535f820d5590fd76b50cb8669c4&e=1449471377&fhash=5a2d31a44abc7c9fea6cd48fe5cf0207f1864b82&fname=%25E6%2589%2593%25E4%25B8%258D%25E5%25BC%2580mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8%25E7%2594%25A8%25E8%25BF%2599%25E4%25B8%25AA.bat&fsize=28&nid=14492979019497309&st=99c1b4f63cfe469e4a5420a37a917778&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33c4BEgcVxm9_244d.bat",
                 "localPath": "打不开mod更新器用这个.bat",
                 "md5": "9595247FD1B1E2105894EB20CD86E7A9"
             },
             {
                 "name": "Mod更新器V1.55jar",
-                "downloadLink": "http://sdl63.yunpan.cn/share.php?method=Share.download&cqid=0989228c6e859a6cfe257c86d930a66d&dt=63.8a046f328369779fdd48ff813f2836d9&e=1449471397&fhash=9d3d208c000bcb7864b64bd690ef7aed8b993d57&fname=Mod%25E6%259B%25B4%25E6%2596%25B0%25E5%2599%25A8V1.55.jar&fsize=2263882&nid=14492977529496649&st=2b9bcfd5a1544aa6f9f586df801bcff5&xqid=1244787103",
+                "downloadLink": "http://musicuu.com/file/c33ciXbX79WvK_325e.jar",
                 "localPath": "Mod更新器V1.55.jar",
                 "md5": "82728813AB8E68CC5FC3E94B162C0D6D"
             },
