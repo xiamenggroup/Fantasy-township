@@ -1,14 +1,17 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.7",
+    "version": "0.8",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
-    "description": "喵呜幻想乡beta0.7
+    "description": "喵呜幻想乡beta0.8
         1.无法正确地使皮肤
         2.mod例行更新
-        3.固定下载地址",
+        3.固定下载地址
+        4.解决魔导书崩溃
+        5.不稳定的小问题
+        6.编入反作弊代码",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -32,15 +35,15 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/c33cRqcSeWUcG_0385.zip",
+                "downloadLink": "http://musicuu.com/file/c33WHU9HfGwBR_ffaa.zip",
                 "localPath": "scripts/",
-                "md5": "904361AB426466D3CA3C98FAD2731B57"
+                "md5": "4B89B805A4F28E594913E22FE116BA17"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/c33cvmSMDiVNw_caa6.zip",
+                "downloadLink": "http://musicuu.com/file/c335gIIZ4JagS_d088.zip",
                 "localPath": "config/",
-                "md5": "61DE83E98F951796160194968D5BD3D1"
+                "md5": "4B8955C79CDE1021FEECA2E2484F5478"
             },
             {
                 "name": "CustomSkinLoader",
@@ -50,9 +53,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/c33ctmSqZhpeB_9d1f.zip",
+                "downloadLink": "http://musicuu.com/file/c33WIkZWM74Qp_d968.zip",
                 "localPath": "mods/",
-                "md5": "7CA5DB9B491FF0BFE7E7C047D3B31834"
+                "md5": "9BE5B5E05528AC30F8540DF67D81E323"
             }
         ],
         "customFiles": [
