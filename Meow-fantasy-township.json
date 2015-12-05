@@ -7,7 +7,8 @@
     "instanceName": "Meow-fantasy-township",
     "description": "喵呜幻想乡beta0.7
         1.无法正确地使皮肤
-        2.mod例行更新",
+        2.mod例行更新
+        3.固定下载地址",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
