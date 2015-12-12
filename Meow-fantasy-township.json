@@ -6,12 +6,7 @@
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
     "description": "喵呜幻想乡beta0.8
-        1.无法正确地使皮肤
-        2.mod例行更新
-        3.固定下载地址
-        4.解决魔导书崩溃
-        5.不稳定的小问题
-        6.编入反作弊代码",
+        1.mod例行更新",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
